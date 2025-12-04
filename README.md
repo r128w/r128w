@@ -1,4 +1,4 @@
-## Hi there 👋
+## r128w
 
 <!--
 **r128w/r128w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![r128w's GitHub stats](https://github-readme-stats.vercel.app/api?username=r128w)](https://github.com/r128w/github-readme-stats)
